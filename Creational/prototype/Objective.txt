@@ -1,0 +1,2 @@
+The prototype pattern is a creational pattern that allow an object to create a copy of itself
+C# resolve this with its own interface called ICloneable with a method Clone()

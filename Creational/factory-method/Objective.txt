@@ -1,0 +1,1 @@
+Creational pattern that create an instance of concrete classes but returning them as objects of abstract class or interfaces
